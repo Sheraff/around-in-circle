@@ -8,6 +8,8 @@ Shapes are very geometric, making use of the same circle for each icon to give i
 
 Feel free to tweak, fork, improve, increment, add, request, pull, push, use and abuse.
 
-Tell me of any idea you might have and i’ll try to add it.
+**I am taking requests**. Tell me of any idea you might have and i’ll try to add it.
 
 ♥
+
+F.
