@@ -1,4 +1,4 @@
-# **around in circles** (35 icons)
+# **around in circles** (42 icons)
 
 ![Sample from font](sample_font.png)
 
