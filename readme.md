@@ -1,6 +1,6 @@
 # **around in circles** (35 icons)
 
-![Sample from font](sample.png)
+![Sample from font](sample_font.png)
 
 This is a simple icon font drawn in illustrator and put together with [icomoon](http://icomoon.io/app/).
 
