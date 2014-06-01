@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="64.238px" height="64.228px" viewBox="0 0 64.238 64.228" style="enable-background:new 0 0 64.238 64.228;"
+	 xml:space="preserve">
+<g id="Layer_1" style="display:none;">
+	<g style="display:inline;">
+		
+			<circle style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;" cx="32.137" cy="32.114" r="31.119"/>
+		
+			<line style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;" x1="32.137" y1="32.114" x2="46.854" y2="17.397"/>
+		
+			<line style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;" x1="32.137" y1="32.114" x2="17.42" y2="46.831"/>
+		
+			<line style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;" x1="32.137" y1="32.114" x2="46.854" y2="46.831"/>
+		
+			<line style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;" x1="32.137" y1="32.114" x2="17.42" y2="17.397"/>
+	</g>
+</g>
+<g id="Layer_2">
+	<path d="M32.137,64.233c-8.58,0-16.645-3.341-22.711-9.407c-12.523-12.523-12.523-32.9,0-45.424
+		c6.066-6.066,14.132-9.407,22.711-9.407s16.646,3.341,22.712,9.408s9.407,14.132,9.407,22.711s-3.341,16.645-9.407,22.711
+		S40.717,64.233,32.137,64.233z M32.137,1.995c-8.045,0-15.609,3.133-21.297,8.821c-11.744,11.744-11.744,30.852,0,42.596
+		c5.688,5.688,13.252,8.821,21.297,8.821s15.609-3.133,21.298-8.822c11.743-11.744,11.743-30.851,0-42.595
+		C47.746,5.127,40.183,1.995,32.137,1.995z M33.551,32.114l14.01-14.01c0.391-0.391,0.391-1.023,0-1.414s-1.023-0.391-1.414,0
+		L32.137,30.7l-14.01-14.01c-0.391-0.391-1.023-0.391-1.414,0s-0.391,1.023,0,1.414l14.01,14.01l-14.01,14.01
+		c-0.391,0.391-0.391,1.023,0,1.414c0.195,0.195,0.451,0.293,0.707,0.293s0.512-0.098,0.707-0.293l14.01-14.01l14.01,14.01
+		c0.195,0.195,0.451,0.293,0.707,0.293s0.512-0.098,0.707-0.293c0.391-0.391,0.391-1.023,0-1.414L33.551,32.114z"/>
+</g>
+</svg>
