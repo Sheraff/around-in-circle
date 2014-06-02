@@ -1,10 +1,10 @@
 @font-face {
 	font-family: 'around-in-circles';
-	src:url('fonts/around-in-circles.eot?-7g5s30');
-	src:url('fonts/around-in-circles.eot?#iefix-7g5s30') format('embedded-opentype'),
-		url('fonts/around-in-circles.woff?-7g5s30') format('woff'),
-		url('fonts/around-in-circles.ttf?-7g5s30') format('truetype'),
-		url('fonts/around-in-circles.svg?-7g5s30#around-in-circles') format('svg');
+	src:url('fonts/around-in-circles.eot?-5uqnby');
+	src:url('fonts/around-in-circles.eot?#iefix-5uqnby') format('embedded-opentype'),
+		url('fonts/around-in-circles.woff?-5uqnby') format('woff'),
+		url('fonts/around-in-circles.ttf?-5uqnby') format('truetype'),
+		url('fonts/around-in-circles.svg?-5uqnby#around-in-circles') format('svg');
 	font-weight: normal;
 	font-style: normal;
 }
@@ -23,6 +23,15 @@
 	-moz-osx-font-smoothing: grayscale;
 }
 
+.icon-lab:before {
+	content: "\e62a";
+}
+.icon-eye:before {
+	content: "\e62b";
+}
+.icon-mic:before {
+	content: "\e62c";
+}
 .icon-lock-open:before {
 	content: "\e623";
 }
