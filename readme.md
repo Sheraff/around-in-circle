@@ -1,5 +1,4 @@
-# **Around in circle** (42 icons)
-&nbsp;&nbsp;&nbsp;&nbsp; — *la font rondouillette*
+# **around in circles** (45 icons)
 
 ![Sample from font](sample_font.png)
 
